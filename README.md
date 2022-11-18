@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 
-    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te2p5lurd2qkwct1i2wrei95lx3guleg58pkdh88&rid=giphy.gif&ct=g" alt="coding-gif" width="300px" height='200' align="right">
+    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te2p5lurd2qkwct1i2wrei95lx3guleg58pkdh88&rid=giphy.gif&ct=g" alt="coding-gif" width="300px" height='180' align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
