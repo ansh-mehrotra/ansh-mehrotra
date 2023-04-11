@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ansh Mehrota</h1>
 <h3 align="center">A passionate web developer and a programmer.</h3>
 
+
+
+
+    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te2p5lurd2qkwct1i2wrei95lx3guleg58pkdh88&rid=giphy.gif&ct=g" alt="coding-gif" >
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-
-
-    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47te2p5lurd2qkwct1i2wrei95lx3guleg58pkdh88&rid=giphy.gif&ct=g" alt="coding-gif" width="300px" height='180' align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anon_smurf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anon_smurf" height="30" width="40" /></a>
-<a href="https://instagram.com/ansh_._mehrotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansh_._mehrotra" height="30" width="40" /></a>
+<a href="https://instagram.com/ansh_._mehrotra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.ansh.__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mehrotraansh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mehrotraansh2" height="30" width="40" /></a>
 </p>
 
