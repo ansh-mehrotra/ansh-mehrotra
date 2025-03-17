@@ -6,5 +6,7 @@
 
 
     
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 **Spring Boot**
+- 🌱 **JavaScript**
+- 🌱 **Java**
 
