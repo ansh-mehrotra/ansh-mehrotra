@@ -5,7 +5,7 @@
 
 
 
-    
-- 🌱 I’m currently learning **Spring Boot**
-
+-  Have Experience of **Java**    
+-  I’m currently learning **Spring Boot**
+-  Exploring **JavaScript**
 
